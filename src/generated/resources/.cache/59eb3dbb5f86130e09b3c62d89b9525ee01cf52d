@@ -1,0 +1,6 @@
+// 1.21	2024-10-29T16:04:37.7414203	Loot Tables
+8cadd73280b5040d1e510cad246834ca39b6b62f data/tutorialmod/loot_table/blocks/magic_block.json
+81e9322ae4c5141fd110a8f87cc92d7af008fd1e data/tutorialmod/loot_table/blocks/raw_sapphire_block.json
+d844cbb192590a5e4278fd1a5c5906e40c594e24 data/tutorialmod/loot_table/blocks/sapphire_block.json
+198da9db989229780d937a90dcbe634952419903 data/tutorialmod/loot_table/blocks/sapphire_deepslate_ore.json
+597207585d244da1299c9df69db18717a7b3851a data/tutorialmod/loot_table/blocks/sapphire_ore.json

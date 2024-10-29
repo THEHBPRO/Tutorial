@@ -1,0 +1,15 @@
+{
+  "item.tutorialmod.sapphire": "Sapphire",
+  "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+
+  "item.tutorialmod.metal_detector": "Metal Detector",
+
+  "block.tutorialmod.sapphire_block": "Block Of Sapphire",
+  "block.tutorialmod.raw_sapphire_block": "Block Of Raw Sapphire",
+  "block.tutorialmod.sapphire_ore": "Sapphire Ore",
+  "block.tutorialmod.sapphire_deepslate_ore": "Sapphire Deepslate Ore",
+  "block.tutorialmod.magic_block": "Magic Block",
+
+  "creativetab.items_tab": "Items Tab",
+  "creativetab.blocks_tab": "Blocks Tab"
+}
